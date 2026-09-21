@@ -4,3 +4,4 @@ git is powerful
 i am learning branches 
 this change was made by developer 2 
 this feature was developed on a seperate branch
+this change is made on master 
